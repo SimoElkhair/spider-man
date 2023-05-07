@@ -1068,14 +1068,14 @@ header .container nav .toggle-menu:hover+ul {
 .prices .container .price .box .head h1::before {
     content: "$";
     position: absolute;
-    right: 80%;
+    right: 75%;
     top: 0;
     font-size: 20px;
 }
 
 @media (max-width: 710px) {
     .prices .container .price .box .head h1::before {
-        right: 65%;
+        right: 60%;
     }
 }
 
