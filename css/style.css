@@ -1068,16 +1068,30 @@ header .container nav .toggle-menu:hover+ul {
 .prices .container .price .box .head h1::before {
     content: "$";
     position: absolute;
-    right: 75%;
+    right: 60%;
     top: 0;
     font-size: 20px;
 }
 
-@media (max-width: 710px) {
+@media (max-width: 1199px) {
     .prices .container .price .box .head h1::before {
-        right: 60%;
+        right: 75%;
     }
 }
+
+@media (max-width: 767px) {
+    .prices .container .price .box .head h1::before {
+        right: 70%;
+    }
+}
+
+@media (max-width: 390px) {
+    .prices .container .price .box .head h1::before {
+        right: 80%;
+    }
+}
+
+@media (min-width: )
 
 .prices .container .price .box ul {
     border-bottom: 1px solid var(--main-color);
