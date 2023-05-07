@@ -438,7 +438,7 @@ header .container nav .toggle-menu:hover+ul {
     padding-bottom: var(--main-padding);
     position: relative;
     height: 600px;
-    background-image: url(/photos/spider-man-design.jpg);
+    background-image: url(../photos/spider-man-design.jpg);
     background-size: cover;
 }
 
@@ -952,7 +952,7 @@ header .container nav .toggle-menu:hover+ul {
 .quote {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
-    background-image: url(/photos/spider-man-quote.jpg);
+    background-image: url(../photos/spider-man-quote.jpg);
     background-size: cover;
     height: 400px;
     position: relative;
@@ -1145,7 +1145,7 @@ header .container nav .toggle-menu:hover+ul {
 .subscribe {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
-    background-image: url(/photos/spider-man-design.jpg);
+    background-image: url(../photos/spider-man-design.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -1348,7 +1348,7 @@ header .container nav .toggle-menu:hover+ul {
 .footer {
     padding-top: calc(var(--main-padding) / 2);
     padding-bottom: calc(var(--main-padding) / 2);
-    background-image: url("/photos/wallpaperflare.com_wallpaper\ \(18\).jpg");
+    background-image: url("../photos/wallpaperflare.com_wallpaper\ \(18\).jpg");
     background-size: cover;
     position: relative;
     color: white;
